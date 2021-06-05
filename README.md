@@ -65,7 +65,7 @@ $ yarn dev
 
 Feito com ❤️ por Thiago Oliveira 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)](https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ThiagoOliveiraCordeiro/)](https://www.linkedin.com/in/ThiagoOliveiraCordeiro/)
 [![Github Badge](https://img.shields.io/badge/-Thiago_Oliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoOliveiraCordeiro)](https://github.com/ThiagoOliveiraCordeiro)
 </div>
 
